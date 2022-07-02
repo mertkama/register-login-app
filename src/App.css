@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-image: linear-gradient(244.06deg, #DF0606 2.56%, #540000 97.1%); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(150px);
+    border-radius: 50px;
+    line-height: 1;
+    font-weight: 600;
+}
+
+
